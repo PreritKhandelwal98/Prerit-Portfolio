@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Prerit-Portfolio/static/css/main.c919f4a3.css",
+    "main.js": "/Prerit-Portfolio/static/js/main.48221006.js",
+    "static/media/project-1.png": "/Prerit-Portfolio/static/media/project-1.d0390266d115b6a79548.png",
+    "static/media/project-2.png": "/Prerit-Portfolio/static/media/project-2.69b47ac1398474af942d.png",
+    "static/media/prerit-image.png": "/Prerit-Portfolio/static/media/prerit-image.334b615307b15d8c4aa9.png",
+    "static/media/project-3.png": "/Prerit-Portfolio/static/media/project-3.8c35217d5209d72b820e.png",
+    "index.html": "/Prerit-Portfolio/index.html",
+    "main.c919f4a3.css.map": "/Prerit-Portfolio/static/css/main.c919f4a3.css.map",
+    "main.48221006.js.map": "/Prerit-Portfolio/static/js/main.48221006.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c919f4a3.css",
+    "static/js/main.48221006.js"
+  ]
+}

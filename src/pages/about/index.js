@@ -37,9 +37,9 @@ export const About = () => {
           <Col lg="7" className="d-flex align-items-center">
             <div>
               <p>{dataabout.aboutme}</p>
-              {/* <Button variant="dark" onClick={handleDownload}>
+              <Button variant="dark" onClick={handleDownload}>
                 <b>Download CV</b>
-              </Button> */}
+              </Button>
             </div>
           </Col>
         </Row>

@@ -2,14 +2,15 @@
     margin-bottom: calc(3rem + 5.128vw)
 }
 
-.table td,
+
+/* .table td,
 .table th {
     color: var(--text-color);
-}
+} */
 
-.t_border {
+/* .t_border {
     border-color: var(--text-color) !important;
-}
+} */
 
 .progress-title {
     font-size: 16px;
@@ -71,7 +72,7 @@
 }
 
 
-/*! CSS Used keyframes */
+
 
 @-webkit-keyframes fadeInUp {
     0% {

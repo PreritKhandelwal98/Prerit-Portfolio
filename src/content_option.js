@@ -31,7 +31,7 @@ const worktimeline = [{
 {
   jobtitle: "Salesforce Developer Intern",
   where: "AICTE (Remote)",
-  date: "2022",
+  date: "April - June 2022",
 }
 ];
 
